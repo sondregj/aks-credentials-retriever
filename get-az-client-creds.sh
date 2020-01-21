@@ -14,4 +14,4 @@ EOF
 
 chmod +x "$2"
 
-cat $2
+echo "Done."
