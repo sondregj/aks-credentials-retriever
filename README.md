@@ -6,3 +6,6 @@ Retrieves the values that [SOPS](https://github.com/mozilla/sops) needs for decr
 
 The image is ideal for retrieving Azure Credentials for Flux CD, being used as an `InitContainer` with a volume shared with Flux. Flux has SOPS included, making it possible to use it in a generator in a `.flux.yaml`-file.
 
+## Usage
+
+> TODO
