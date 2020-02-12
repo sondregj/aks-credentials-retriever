@@ -1,4 +1,4 @@
-# Keyvault Credentials Retriever for Azure Kubernetes Service
+# Service Principal Credentials Retriever for Azure Kubernetes Service
 
 Ideal for retrieving Azure Credentials for Flux CD.
 
